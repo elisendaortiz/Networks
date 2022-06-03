@@ -1,0 +1,9 @@
+48th_mps  THIS IS GCC INFORMATION:
+Nodes full net:               94
+Nodes gcc:                    94
+Egdes:                        662
+Av. Degree:                   14.085106382978724
+Max Degree:                   35
+Mean clustering coefficient:  0.7797495152175709
+Av. shortest path length      2.26378403111
+Diameter                      4

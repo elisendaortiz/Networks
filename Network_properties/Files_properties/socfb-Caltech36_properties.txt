@@ -1,0 +1,9 @@
+socfb-Caltech36  THIS IS GCC INFORMATION:
+Nodes full net:               762
+Nodes gcc:                    762
+Egdes:                        16651
+Av. Degree:                   43.70341207349082
+Max Degree:                   248
+Mean clustering coefficient:  0.42646701269917575
+Av. shortest path length      2.33784804495
+Diameter                      6
